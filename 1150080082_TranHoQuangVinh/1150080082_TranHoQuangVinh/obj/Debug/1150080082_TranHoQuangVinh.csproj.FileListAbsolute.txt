@@ -1,0 +1,13 @@
+C:\Users\kocot\OneDrive\tailieu\ppptpmOOP\buoi5\1150080082_TranHoQuangVinh\1150080082_TranHoQuangVinh\bin\Debug\1150080082_TranHoQuangVinh.exe.config
+C:\Users\kocot\OneDrive\tailieu\ppptpmOOP\buoi5\1150080082_TranHoQuangVinh\1150080082_TranHoQuangVinh\bin\Debug\1150080082_TranHoQuangVinh.exe
+C:\Users\kocot\OneDrive\tailieu\ppptpmOOP\buoi5\1150080082_TranHoQuangVinh\1150080082_TranHoQuangVinh\bin\Debug\1150080082_TranHoQuangVinh.pdb
+C:\Users\kocot\OneDrive\tailieu\ppptpmOOP\buoi5\1150080082_TranHoQuangVinh\1150080082_TranHoQuangVinh\obj\Debug\1150080082_TranHoQuangVinh.csproj.AssemblyReference.cache
+C:\Users\kocot\OneDrive\tailieu\ppptpmOOP\buoi5\1150080082_TranHoQuangVinh\1150080082_TranHoQuangVinh\obj\Debug\_1150080082_TranHoQuangVinh.Form1.resources
+C:\Users\kocot\OneDrive\tailieu\ppptpmOOP\buoi5\1150080082_TranHoQuangVinh\1150080082_TranHoQuangVinh\obj\Debug\_1150080082_TranHoQuangVinh.Properties.Resources.resources
+C:\Users\kocot\OneDrive\tailieu\ppptpmOOP\buoi5\1150080082_TranHoQuangVinh\1150080082_TranHoQuangVinh\obj\Debug\1150080082_TranHoQuangVinh.csproj.GenerateResource.cache
+C:\Users\kocot\OneDrive\tailieu\ppptpmOOP\buoi5\1150080082_TranHoQuangVinh\1150080082_TranHoQuangVinh\obj\Debug\1150080082_TranHoQuangVinh.csproj.CoreCompileInputs.cache
+C:\Users\kocot\OneDrive\tailieu\ppptpmOOP\buoi5\1150080082_TranHoQuangVinh\1150080082_TranHoQuangVinh\obj\Debug\1150080082_TranHoQuangVinh.exe
+C:\Users\kocot\OneDrive\tailieu\ppptpmOOP\buoi5\1150080082_TranHoQuangVinh\1150080082_TranHoQuangVinh\obj\Debug\1150080082_TranHoQuangVinh.pdb
+C:\Users\kocot\OneDrive\tailieu\ppptpmOOP\buoi5\1150080082_TranHoQuangVinh\1150080082_TranHoQuangVinh\obj\Debug\1150080082_TranHoQuangVinh.exe.config
+C:\Users\kocot\OneDrive\tailieu\ppptpmOOP\buoi5\1150080082_TranHoQuangVinh\1150080082_TranHoQuangVinh\obj\Debug\USCLN_BSCNN.Apdung1.resources
+C:\Users\kocot\OneDrive\tailieu\ppptpmOOP\buoi5\1150080082_TranHoQuangVinh\1150080082_TranHoQuangVinh\obj\Debug\_1150080082_TranHoQuangVinh.Apdung2.resources
